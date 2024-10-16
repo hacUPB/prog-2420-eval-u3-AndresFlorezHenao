@@ -2,7 +2,7 @@
 
 - **Instrucciones de Instalación y Ejecución:**
 
-    Desde el Bash de git se ingresa hasta la carpeta que se desee tener el repositorio, desde Notion se clona con el comando "git clone (url del repositorio)", posteriormente en la carpeta se ingresa a la aplicacion configurada para observar el codigo y el programa.
+    Desde el Bash de git se ingresa hasta la carpeta que se desee tener el repositorio, desde Notion se copia la url del repositorio remoto, este se clona con el comando "git clone (url del repositorio)" en git bash , posteriormente el repositorio quedara guardado localmente y se inicia en el branch main en la carpeta, luego se ingresa a la aplicacion configurada para observar el codigo y el programa.
     
 - **Uso del Programa:**
 
